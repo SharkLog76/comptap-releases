@@ -33,6 +33,20 @@ Bienvenue sur le dépôt de distribution public officiel de **ComptaP** pour **W
 
 ---
 
+### 🌟 Aperçu de l'Application (Données Spécimens)
+
+| Synthèse Générale & Soldes Consolidés | Journal des Opérations & Inspecteur Multi-Splits |
+| :---: | :---: |
+| ![Vue Tableau de bord](assets/screenshots/comptap_main_dashboard.png) | ![Journal des Opérations](assets/screenshots/comptap_journal.png) |
+
+<br/>
+
+| Échéancier des Opérations Périodiques |
+| :---: |
+| ![Échéancier](assets/screenshots/comptap_scheduler.png) |
+
+---
+
 ### ⚡ Points Forts de ComptaP
 
 - **Exécutable natif Windows 11 ultra-performant** : Développé en C# .NET 10 et WPF avec moteur SQLite embarqué local. Zéro Docker, zéro serveur web, zéro latence même au-delà de 20 000 opérations.
