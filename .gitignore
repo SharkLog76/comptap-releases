@@ -1,0 +1,6 @@
+# Releases and Binaries (attached to GitHub Releases, not git tree)
+releases/
+*.exe
+*.zip
+.DS_Store
+Thumbs.db
