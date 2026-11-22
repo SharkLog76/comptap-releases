@@ -8,7 +8,7 @@ Bienvenue sur le dépôt de distribution public officiel de **ComptaP** pour **W
 
 <p align="center">
   <a href="https://github.com/SharkLog76/comptap-releases/releases/latest">
-    <img src="https://img.shields.io/badge/Version-v1.1.0-6366F1?style=for-the-badge" alt="Version v1.1.0" />
+    <img src="https://img.shields.io/badge/Version-v1.2.0-6366F1?style=for-the-badge" alt="Version v1.2.0" />
   </a>
   <img src="https://img.shields.io/badge/Windows-11_x64-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows 11" />
   <img src="https://img.shields.io/badge/.NET-10.0_WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 10 WPF" />
@@ -18,11 +18,11 @@ Bienvenue sur le dépôt de distribution public officiel de **ComptaP** pour **W
 
 ---
 
-### 📦 Télécharger la dernière version (`v1.1.0`)
+### 📦 Télécharger la dernière version (`v1.2.0`)
 
-👉 **[Télécharger ComptaP v1.1.0 (Dernière version)](https://github.com/SharkLog76/comptap-releases/releases/latest)**
+👉 **[Télécharger ComptaP v1.2.0 (Dernière version)](https://github.com/SharkLog76/comptap-releases/releases/latest)**
 
-- **Windows 11 — `ComptaP-Setup-1.1.0.exe`** *(Recommandé)* :
+- **Windows 11 — `ComptaP-Setup-1.2.0.exe`** *(Recommandé)* :
   - Assistant d'installation complet en français.
   - Raccourcis Menu Démarrer et Bureau avec logo officiel ComptaP.
   - Association automatique des documents `.icw` et menu contextuel pour les fichiers Mac `.cdb`.
